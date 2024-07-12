@@ -1,6 +1,6 @@
 module loadtest
 
-go 1.22
+go 1.20
 
 require github.com/valyala/fasthttp v1.55.0
 
